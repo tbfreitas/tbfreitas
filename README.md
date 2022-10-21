@@ -7,15 +7,18 @@
 - Skills on Mobile : Reactnative, Flutter, Android native(Java && Kotlin)
 - Skills as Architect: 
     1. Devops:
+    
       * CI/CD
       * Gitlab runner
       * Dockerfile build 
       * Microsoft Agents on Azure
     2. Event Driven:
+
       * Kafka
       * Mqtt
       * Rabit MQ
     3. Microservices
+
       * docker
       * Kubernetes
       * Azure
